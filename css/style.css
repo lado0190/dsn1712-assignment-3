@@ -64,7 +64,7 @@ nav a {
 
 #about-me .about-content {
   display: flex;
-  align-items: flex-end;
+  align-content: center;
   gap: 20px;
   justify-content: center;
 }
